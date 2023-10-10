@@ -12,3 +12,8 @@ main{
 .titulo {
   font-family: "Black Han Sans", sans-serif;
 }
+
+.img-carrousel{
+  height: 500px;
+  object-fit: cover;
+}
